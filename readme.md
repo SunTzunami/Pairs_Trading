@@ -1,5 +1,5 @@
 # Pairs Trading
-Backtesting some pairs trading strategies over NSE200 stocks. Refer the pdf for info. 
+Backtesting some pairs trading strategies over NSE200 stocks. Refer to the pdf for info. 
 
 # References
 [Pairs Trading: Performance of a Relative Value Arbitrage Rule](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=141615)
